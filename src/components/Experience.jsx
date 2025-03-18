@@ -3,17 +3,17 @@ import React from 'react';
 const experiences = [
   {
     year: '2024',
-    role: 'Full-Stack Developer Intern',
-    company: 'Tech Corp',
-    description: 'Developed REST APIs and optimized database queries for a high-traffic web app.',
-    technologies: ['JavaScript', 'React.js', 'Next.js', 'MongoDB'],
+    role: 'Full-Stack Developer ',
+    company: '',
+    description: "Developed dynamic web applications using modern frameworks and optimized backend performance.",
+    technologies: ['JavaScript', 'React.js', 'Next.js', 'TailWind CSS', 'Express.js', 'MongoDB','php'],
   },
   {
     year: '2023',
-    role: 'Open Source Contributor',
-    company: 'GitHub',
-    description: 'Contributed to multiple React.js projects, improving UI/UX and performance.',
-    technologies: ['React.js', 'Node.js', 'Git', 'Tailwind CSS'],
+    role: 'Web Developer',
+    company: '',
+    description: 'Built a strong foundation in HTML, CSS, JavaScript, and DBMS, developing interactive and structured web applications.',
+    technologies: ['HTML', 'CSS', 'JavaScript', 'SQL'],
   },
 ];
 

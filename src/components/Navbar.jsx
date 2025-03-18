@@ -56,7 +56,7 @@ const Navbar = () => {
         <a href="" target="_blank" rel="noopener noreferrer" className="hover:text-blue-700">
           <FaFacebook />
         </a>
-      </div>
+      </div> 
     </nav>
   );
 };
