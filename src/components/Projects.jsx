@@ -26,7 +26,7 @@ const PROJECTS = [
     image: project3,
     description: "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Bootstrap"],
-    link: "https://portfolio-demo.com",
+    link: "https://react-portfolio-website-black.vercel.app",
   },
   {
     title: "Blogging Platform",
